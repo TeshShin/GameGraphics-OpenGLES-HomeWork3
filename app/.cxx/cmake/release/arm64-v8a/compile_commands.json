@@ -1,0 +1,55 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\main.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\main.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/main.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\asset.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\asset.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/asset.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\shader.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\shader.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/shader.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\program.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\program.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/program.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\scene.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\scene.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/scene.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\camera.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\camera.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/camera.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\material.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\material.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/material.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\texture.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\texture.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/texture.cpp"
+},
+
+{
+  "directory": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\object.cpp.o -c C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\object.cpp",
+  "file": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/src/main/cpp/src/object.cpp"
+}
+]

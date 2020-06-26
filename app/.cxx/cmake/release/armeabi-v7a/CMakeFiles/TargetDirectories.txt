@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
+C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

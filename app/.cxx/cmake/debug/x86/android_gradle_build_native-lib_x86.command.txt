@@ -1,0 +1,7 @@
+Executable : C:\Users\user\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\user\Desktop\ffdsf\-GameGraphics-_Homework3-master\-GameGraphics-_Homework3-master\OpenGLES_HW3\OpenGLES_HW3\app\.cxx\cmake\debug\x86
+native-lib
+jvmArgs : 
+

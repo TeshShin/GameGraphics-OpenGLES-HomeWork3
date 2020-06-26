@@ -1,0 +1,26 @@
+# ninja log v5
+6	1302	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/asset.cpp.o	6fee17c6c4b1c993
+1	1309	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/shader.cpp.o	6137e46ee99bac2c
+9	1311	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	3ee2a60701091040
+16	1312	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/program.cpp.o	c671202c7e55ba78
+20	1314	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o	8190d1ede8a4ef65
+24	1328	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o	af81724bfa3b7fea
+29	1337	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/texture.cpp.o	74ccc1e5ded0d547
+33	1379	614790604	CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o	6ede704a5b3ae7b5
+13	46447	614790649	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	38996171e4cb9815
+46448	46598	614790649	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	a8e1f67cdb30ce57
+3	1168	614790813	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	3ee2a60701091040
+8	46231	614790858	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	38996171e4cb9815
+46231	46409	614790858	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	a8e1f67cdb30ce57
+37	1256	614877728	CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o	8190d1ede8a4ef65
+5	1258	614877728	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	3ee2a60701091040
+41	1260	614877728	CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o	6ede704a5b3ae7b5
+33	1261	614877728	CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o	af81724bfa3b7fea
+28	41113	614877768	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	38996171e4cb9815
+41114	41456	614877768	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	a8e1f67cdb30ce57
+11	1384	614877905	CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o	af81724bfa3b7fea
+4	1386	614877905	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	3ee2a60701091040
+22	1388	614877905	CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o	8190d1ede8a4ef65
+27	1477	614877906	CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o	6ede704a5b3ae7b5
+16	41374	614877945	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	38996171e4cb9815
+41374	41536	614877946	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	a8e1f67cdb30ce57

@@ -1,0 +1,83 @@
+{
+  "stringTable": {
+    "0": "C:/Users/user/Desktop/ffdsf/-GameGraphics-_Homework3-master/-GameGraphics-_Homework3-master/OpenGLES_HW3/OpenGLES_HW3/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++14 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\.cxx\\cmake\\debug\\x86_64\" native-lib",
+      "buildType": "debug",
+      "toolchain": "2566272831",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\main.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\asset.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\shader.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\program.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\scene.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\camera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\material.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\texture.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\src\\main\\cpp\\src\\object.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\user\\Desktop\\ffdsf\\-GameGraphics-_Homework3-master\\-GameGraphics-_Homework3-master\\OpenGLES_HW3\\OpenGLES_HW3\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2566272831": {
+      "cppCompilerExecutable": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
