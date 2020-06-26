@@ -1,4 +1,4 @@
-"# GameGraphics-HW3"
+# GameGraphics-HW3
 
 숙제를 완료하였습니당.
 
