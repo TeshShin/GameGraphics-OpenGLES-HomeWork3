@@ -4,10 +4,12 @@
 
 80% 성공? ㅠㅠ
 
-animation completed...\n
-\n
-flat plane completed...\n
-\n
+animation completed...
+
+
+flat plane completed...
+
+
 ##Finished my HW without shadow.
 
 ## Result GIF.
