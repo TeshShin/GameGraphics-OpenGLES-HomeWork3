@@ -6,6 +6,6 @@
 
 
 ## Result GIF.
-<img src="GameGraphics-Homework3/img/finish_flat_plane.gif" width="175" height="300">
+<img src="GameGraphics-Homework3/img/finish_flat_plane.gif" width="540" height="1078">
 
 달려라 달려
