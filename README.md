@@ -4,10 +4,11 @@
 
 80% 성공? ㅠㅠ
 
-animation completed...
-flat plane completed...
-
-finished my HW without shadow.
+animation completed...\n
+\n
+flat plane completed...\n
+\n
+##Finished my HW without shadow.
 
 ## Result GIF.
 <img src="GameGraphics-Homework3/img/finish_flat_plane.gif" width="540" height="1078">
