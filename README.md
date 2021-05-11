@@ -9,6 +9,7 @@ animation completed...
 flat plane completed...
 
 이번 숙제는 스켈레톤에 대한 이해와 스켈레톤을 활용한 애니메이션 적용법 등을 배우게 되었습니다.
+
 추가적으로 주어진 문제인 바닥 만들기와 그곳에 생기는 그림자 만들기가 있었는데 바닥 만들기만 해결했습니다.
 ## Finished my HW without shadow.
 
