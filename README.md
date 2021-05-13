@@ -12,7 +12,7 @@ flat plane completed...
 
 추가적으로 주어진 문제인 바닥 만들기와 그곳에 생기는 그림자 만들기가 있었는데 바닥 만들기만 해결했습니다.
 ## Problems about...
-GG_HW3_guide.pdf have what problems are.
+* GG_HW3_guide.pdf have what problems are.
 
 ## Finished my HW without shadow.
 
