@@ -1,7 +1,7 @@
 # GameGraphics-OpenGLES-HomeWork3
 ## Problems about...
 * [GG_HW3_guide.pdf](https://github.com/TeshShin/GameGraphics-HomeWork3/blob/master/GG_HW3_guide.pdf) have what problems are.
-* or See problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework3)
+* Or see problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework3)
 
 ## Animate the skeleton
 <img src="GameGraphics-Homework3/img/animate skeleton.gif" width="200" height="400">
