@@ -1,7 +1,8 @@
 repo_name: TeshShin/GameGraphics-OpenGLES-HomeWork3
 report_id: d47306447286450e806f3c9769d5ecb2
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:50:25+00:00'
+timestamp: '2024-01-05T08:29:33+00:00'
 requested_by: TeshShin
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: GLSL
   description: A high-level C-style language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -55,7 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: shintom1222
   last_updated_on: 2020-06-26 13:17:18.000000000 Z
@@ -67,6 +72,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -76,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -86,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: shintom1222
   last_updated_on: 2020-06-26 13:17:18.000000000 Z
@@ -98,7 +106,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: shintom1222
   last_updated_on: 2020-06-26 13:17:18.000000000 Z
@@ -111,7 +119,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
+  detection_source_url: https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork3/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: shintom1222
   last_updated_on: 2020-06-26 13:17:18.000000000 Z
