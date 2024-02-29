@@ -2,7 +2,7 @@ repo_name: TeshShin/GameGraphics-OpenGLES-HomeWork3
 report_id: d47306447286450e806f3c9769d5ecb2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:29:33+00:00'
+timestamp: '2024-02-29T18:57:45+00:00'
 requested_by: TeshShin
 provider: github
 branch: master
@@ -65,7 +65,7 @@ tools:
   last_updated_by: shintom1222
   last_updated_on: 2020-06-26 13:17:18.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
